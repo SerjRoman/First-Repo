@@ -4,7 +4,7 @@ import turtle
 from dialogs import *
 import pygame
 
-print('hello world')
+print('hello world!')
 def move_turtle(x,y,object):
     
     object.penup()
